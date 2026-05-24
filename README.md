@@ -15,3 +15,5 @@ The Receiver Module:
 The communication between the ESPs are made through ESP Now with each ESP MAC Address.
 
 Each ESP32 is connected to its own pinboard. And are supposed to be battery powered.
+
+Each ESP32 module has its own 3d printed case that is meant to hold each board with sensors and batteries.
